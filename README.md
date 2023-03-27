@@ -29,7 +29,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 ![age](https://github.com/Dev-hunt/Dev-hunt/blob/main/Images/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6167652d32312d626c7565.svg) 
 <!-- 
 https:Dev-hunt //Dev-huntgithub.com  /harsh0620/Dev-hunt  harsh0620
-https://github.com/Subhampreet/Subhampreet
+https:Dev-hunt //Dev-huntgithub.com  /Subhampreet/Dev-hunt  Subhampreet
 -->
 <img width="45%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
