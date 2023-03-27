@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-hunt&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-hunt" /> </p>
   
-A 4th year student pursuing Bachelor's in Computer Science 🎓 from Arya College of Engineering & IT 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. 🕸️ Currently, I am working on my Data Structures and Algorithms skills 🤓.
+A 4th year student pursuing Bachelor's in Computer Science 🎓 from Arya College of Engineering & IT 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I have Solution-oriented and problem-solving enthusiasm for building and maintaining software and software architecture. Skilled in programming and cloud architecture. I love to explore new technologies and leverage them to solve real-life problems✨. 🕸️ Currently, I am working on my Data Structures and Algorithms skills 🤓.
 
 
-![age](https://img.shields.io/badge/age-21-blue) 
+![age](https://github.com/Dev-hunt/Dev-hunt/blob/main/Images/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6167652d32312d626c7565.svg) 
 <!-- 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)   ![living](https://img.shields.io/badge/living-Udaipur-3c9)
 -->
@@ -37,10 +37,12 @@ A 4th year student pursuing Bachelor's in Computer Science 🎓 from Arya Colleg
 - 👯 I’m looking forward to contribute in Open Source Projects.
 
 ### Technology Stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/c++.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="30"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" width="30"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="30" width="30">
-
-### Reach me on
+<img src="https://github.com/Dev-hunt/Dev-hunt/blob/main/Images/c-original.svg" height="30" width="30">
+<img src="https://github.com/Dev-hunt/Dev-hunt/blob/main/Images/c%2B%2B.png" height="30" width="30">
+<img src="https://github.com/Dev-hunt/Dev-hunt/blob/main/Images/JS.png" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="30"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="30" width="30"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" width="30"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="30" width="30"> <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="30" width="30">
 <!--
+### Reach me on
+
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-chandravanshi-74571b172/" target="blank"> 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh0620" height="30" width="30" /> 
