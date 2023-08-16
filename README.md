@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev-hunt&label=Profile%20views&color=0e75b6&style=flat" alt="Dev-hunt" /> </p>
   
-🔭 4th year student pursuing Bachelor's in Computer Science 🎓  🏛.
+🔭 Completed Bachelor's of technology in Computer Science stream with excellent academics🎓  🏛.
 - I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 - I have Solution-oriented and problem-solving enthusiasm for building and maintaining software and software architecture. Skilled in programming and ☁️ cloud architecture.
 - I love to explore new technologies and leverage them to solve real-life problems✨. 🕸️ Currently, I am working on my Data Structures and Algorithms skills 🤓.
